@@ -1,4 +1,4 @@
-# 🥕 Nectar
+# Nectar
 
 Online groceries shopping app built with Flutter, Firebase and Bloc pattern.
 
@@ -6,7 +6,7 @@ Online groceries shopping app built with Flutter, Firebase and Bloc pattern.
 
 This project is still under development.
 
-## 🧾 Features
+## Features
 
 -   [x] Authentication
 -   [x] Home
@@ -33,7 +33,7 @@ This project is still under development.
 -   [ ] Firebase Analytics
 -   [x] Firebase Crashlytics
 
-## 🔰 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -66,7 +66,7 @@ const String mapboxAccessToken = {YOUR_MAPBOX_ACCESS_TOKEN};
 flutter run
 ```
 
-## 📦 Packages
+## Packages
 
 | Package                                                                             | Version  | Description                                                                                                                                                        |
 | ----------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -101,11 +101,11 @@ flutter run
 | [flutter_map_location_marker](https://pub.dev/packages/flutter_map_location_marker) | 8.0.8    | A package for adding location markers on flutter maps.                                                                                                             |
 | [flutter_map_animations](https://pub.dev/packages/flutter_map_animations)           | 0.5.3    | A package for adding animated markers on flutter maps.                                                                                                             |
 
-## 🔗 Resources
+## Resources
 
 -   [Design](<https://www.figma.com/file/lA6Pp8ZQ9XCZeima0laz7Y/Online-Groceries-App-UI-(Community)>)
 
-## 📱 Screenshots
+## Screenshots
 
 <!-- variables -->
 
@@ -178,17 +178,17 @@ flutter run
 | :-----------: |
 | ![Help][help] |
 
-## 📝 License
+## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-## 👨🏽‍💻 Author(s)
+##  Author(s)
 
 👤 Shokhrukhbek Yuldoshev
 
--   Github: [@ShokhrukhbekYuldoshev](https://github.com/ShokhrukhbekYuldoshev)
+-   Github: [@incrediblesy](https://github.com/incrediblesy)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!
 
